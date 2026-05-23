@@ -16,6 +16,3 @@ m=1
 Answers=[0,t_1,t_2,t_3]
 ans=Answers[qn]
 print(f'{ans:.3g}')
-
-
-

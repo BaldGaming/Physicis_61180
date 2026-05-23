@@ -1,1 +1,1 @@
-A physics course for Software Engineering
+ physics course for Software Engineering
